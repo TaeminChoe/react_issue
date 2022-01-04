@@ -1,4 +1,3 @@
-test
 ## state 동기화
 
 ![Untitled](https://user-images.githubusercontent.com/92558961/148014587-e2fced54-8b2b-44a1-8e89-e17c8767ecd5.png)
