@@ -24,3 +24,5 @@
 - useEffect를 활용해 toDoList에 변경에 따라 콘솔에 출력하면, 해결할 수 있다.
 
 ![Untitled (3)](https://user-images.githubusercontent.com/92558961/148014629-ec18c7b9-b87e-4ed8-857e-aa0729383055.png)
+
+참조: https://jihyee.tistory.com/9?category=0
